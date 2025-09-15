@@ -29,5 +29,8 @@
     "linkedom": "^0.18",
     "vite": "^6.0",
     "wrangler": "^3.99.0"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
   }
 }
